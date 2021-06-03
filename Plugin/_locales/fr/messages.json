@@ -1,0 +1,17 @@
+{
+  "AppName": {
+    "message": "<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Présence sur Google Meet</u></h4>"
+  },
+  "InMeeting": {
+    "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bienvenue,&nbsp;🤗</br> Veuillez appuyer sur <b>prendre les présences</b> si vous souhaiter prendre la liste des présence."
+  },
+  "OutMeeting": {
+    "message": "Désolé, cette extension ne pourra vous servir qu'une fois dans Google Meet &nbsp;😥"
+  },
+  "Homepage": {
+    "message": "Page d'accueil"
+  },
+  "Attend": {
+    "message": "PRENDRE LES PRESENCES"
+  }
+}

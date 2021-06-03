@@ -1,0 +1,59 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <style type="text/css">
+    
+    button{
+        background-color: rgb(243,185,65);
+        border: 2px solid #c33a1f;
+        color: #6b4710;
+    }
+
+    a{
+        color : #6b4710;
+          text-align : center;
+    }
+    h4{
+        background-color: rgb(243,185,65);
+        border: 2px solid #c33a1f;
+        color: #6b4710;
+    }
+
+    
+   
+    </style>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/popup.css" />
+
+    <title>Présence sur Google Meet</title>
+</head>
+
+<body>
+    
+    <div class="card-deck">
+        <div id="main-card" class="card">
+            <div >
+                <span class="font-weight-bold" data-loc="AppName"></span>
+            </div>
+            <div class="card-body">
+                <p id="state"></p>
+                <div id="in-meeting">
+                    <textarea disabled id="list-user" class="form-control mt-3" id="comment"></textarea>
+                </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <button><a href="#" id="attend" > 
+                       <b><span data-loc="Attend"></span></b>
+                    </a></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="js/common.js"></script>
+    <script type="module" src="js/popup.js"></script>
+</body>
+
+</html>
